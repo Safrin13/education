@@ -343,7 +343,7 @@ header{
 	background-size: cover;
 	background-repeat: no-repeat;
 }
-..white, .green{
+.white, .green{
 	font-size: 30px;
 	font-weight: 700;
 }
